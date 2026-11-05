@@ -1,0 +1,16 @@
+{
+	"name": "DS_POSTGRESS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "LS_POSTGRESS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "PostgreSqlV2Table",
+		"schema": [],
+		"typeProperties": {
+			"schema": "",
+			"table": ""
+		}
+	}
+}
